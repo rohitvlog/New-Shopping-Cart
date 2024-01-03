@@ -1,2 +1,2 @@
-# New-Shopping-Cart
-Creating  a New Shopping with the help of using Html, Css and JavaScript
+# shoppingcart
+shopping cart website with the help of Html, Css  & Javascript.

@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "name":" Iphone14",
+        "price": "80000",
+        "image": "iphone14.png"
+    },
+    {
+        "id": 2,
+        "name":" One Plus9r",
+        "price": "45000",
+        "image": "oneplus9r.png"
+    },
+    {
+        "id": 3,
+        "name":" OppoF21",
+        "price": "25000",
+        "image": "oppo.png"
+    },
+    {
+        "id": 4,
+        "name":"Samsung s23 ",
+        "price": "67999",
+        "image": "s23.png"
+    },
+    {
+        "id": 5,
+        "name":" RealMeC30",
+        "price": "20000",
+        "image": "realmec30.png"
+    },
+    {
+        "id": 6,
+        "name":"TechnoG5",
+        "price": "19999",
+        "image": "techno5g.png"
+    },
+    {
+        "id":7,
+        "name":"Boat Airpodes181",
+        "price":999,
+        "image":"boatairdropes181.png"
+    },
+    {
+        "id":8,
+        "name":"Boat Rocker151",
+        "price":2999,
+        "image":"boatrocker151.png"
+    },
+    {
+        "id":9,
+        "name":"Boat Rockerz330",
+        "price":699,
+        "image":"boatrockerz330.png"
+    },
+    {
+        "id":10,
+        "name":"Lg Microwave 20l",
+        "price":5999,
+        "image":"lgmicro.png"
+    },
+        
+    {
+        "id":11,
+        "name":"Asus",
+        "price":59999,
+        "image":"asus.png"
+    },
+    {
+        "id":12,
+        "name":"Samsung M33",
+        "price":19999,
+        "image":"samsungm33.png"
+    },
+
+    {
+        "id":13,
+        "name":"Samsung GalaxyA60",
+        "price":30999,
+        "image":"samsunggalaxya60.png"
+
+    },
+    {
+        "id":14,
+        "name":"Poco x3",
+        "price":30999,
+        "image":"pocox3.png" 
+    },
+    {
+        "id":15,
+        "name":"Pocom3",
+        "price":30999,
+        "image":"pocom3.png" 
+    },
+    {
+        "id":16,
+        "name":"Redmi10c",
+        "price":30999,
+        "image":"redmi10c.png" 
+
+    },
+    {
+        "id":17,
+        "name":"Redmi9Prime",
+        "price":9999,
+        "image":"redmi9prime.png" 
+
+    },
+    
+    {
+            "id":18,
+            "name":"Realmi8i",
+            "price":29999,
+            "image":"realmi8i.png" 
+    
+     }
+    
+    
+]
